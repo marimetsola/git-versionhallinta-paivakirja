@@ -19,3 +19,4 @@ Olen käyttänyt Gitiä ja GitHubia aika paljonkin, mutta vain perus pull, push,
 | checkout | Vaihtaa branchia                                |
 | switch   | Vaihtaa branchia                                |
 | revert   | Peruuttaa commitin                              |
+| merge    | Yhdistää kaksi haaraa                           |
